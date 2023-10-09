@@ -1,0 +1,67 @@
+body{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background-color: rgb(235, 221, 204);
+}
+
+header{
+    background-color: rgb(218, 200, 179);
+    width: 100%;
+    height: 100px;
+}
+
+header > h1{
+    margin: 0;
+    margin-left: 715px;
+}
+
+.tudo{
+   background-color: rgb(235, 221, 204);
+   height: 550px;
+   width: 580px;
+   border-radius: 15px;
+   margin-left: 600px;
+}
+
+.tudo > .imgs{
+    display: flex;
+    justify-content: center;
+}
+
+.tudo > .imgss{
+    display: flex;
+    justify-content: center;
+}
+
+.tudo > .imgs > .img1 > img{
+    width: 234px;
+}
+
+.imgs > .img1{
+    margin-top:45px;
+}
+
+.imgs > .img2{
+    margin-top:45px;
+}
+
+.cocorucho{
+    background-color: rgb(197, 181, 167);
+    width:850px;
+    height: 150px;
+    margin-left: 500px;
+    border-radius: 15px;
+}
+
+.cocorucho > h2{
+    margin-left: 200px;
+    margin-top: 50px;
+
+}
+
+.cocorucho > p{
+    margin: 0;
+    margin-left: 30px;
+    
+}
